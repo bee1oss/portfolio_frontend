@@ -30,6 +30,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4 text-white"
       >
+        asdasd
       </motion.p>
     </div>
   );

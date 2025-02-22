@@ -39,7 +39,7 @@ const experiences = [
 
 const AllExperiences = () => {
   return (
-    <div className="flex md:flex-row sm:flex-col items-center justify-between">
+    <div className="flex md:flex-row sm:flex-col items-center justify-between text-white">
       {experiences.map((experience, index) => {
         return (
           <>
